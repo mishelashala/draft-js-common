@@ -1,2 +1,2 @@
-# Draft-js common utils
-work in progress
+# Draft-js common utils
+> work in progress
