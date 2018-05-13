@@ -1,0 +1,32 @@
+{
+  "name": "draft-js-common",
+  "version": "0.0.0",
+  "description": "Draft.js common utils/functions",
+  "main": "",
+  "scripts": {
+    "test": "tap test/*.test.js"
+  },
+  "keywords": [
+    "draft",
+    "draft-js",
+    "utils",
+    "common"
+  ],
+  "author": "Michell Ayala",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "draft-js": "^0.10.5",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "webpack": "^4.8.3"
+  },
+  "devDependencies": {
+    "tap": "^11.1.5",
+    "webpack-cli": "^2.1.3"
+  }
+}
